@@ -22,6 +22,8 @@ public class Jtextfield{
 		
 		t.setBackground(Color.YELLOW);
 		t.setForeground(Color.GREEN);
+
+		t.setEditable(false);
 		
 		frame.setVisible(true);
 	}
