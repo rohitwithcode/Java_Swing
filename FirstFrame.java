@@ -22,7 +22,7 @@ public class FirstFrame{
 
 		c.setBackgroun(Color.RED);
 
-		// frame.setVisible(false);
+		frame.setResizable(false);
 		
 }
 }
