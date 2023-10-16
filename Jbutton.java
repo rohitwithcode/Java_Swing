@@ -1,6 +1,16 @@
 import javax.swing.*;
 import java.awt.*;
 
+/*
+	STEPS TO FOLLOW FOR EVENT HANDLING :-
+		
+  	1.implements the ActionListener interface
+   	2.Bind the ActionListener to the component using addActionListener() method
+    	3.Override method 
+     	    public void actionPerformed(ActionEvent e){
+     	    }  	
+*/
+
 public class Jbutton{
 	public static void main(String args []){
 		
