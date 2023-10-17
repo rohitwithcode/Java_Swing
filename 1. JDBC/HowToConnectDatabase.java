@@ -41,7 +41,7 @@ public class HowToConnectDatabase{
 						System.out.println(id);
 						System.out.println(name);
 					}
-					
+			 step 5 -> Close the Connection		
 		*/		
 	}
 }
